@@ -1,0 +1,19 @@
+ID,education_level,years_experience,job_title,industry,location,company_size,certifications,age,working_hours,crucial_code
+1,Masters,10,Manager,IT,London,,3,22,36,
+2,PhD,2,Manager,Education,Bangalore,Small,,54,58,WMZ413
+3,PhD,15,Analyst,Finance,New York,Large,3,28,57,WQE613
+4,Masters,,Analyst,IT,London,Medium,1,48,36,UUF012
+5,Masters,12,Manager,IT,London,Large,4,30,59,JGD966
+6,Masters,16,Analyst,IT,San Francisco,Large,3,47,53,OYS428
+7,Masters,18,Software Engineer,Healthcare,London,,,55,53,
+8,PhD,4,Manager,IT,Bangalore,Small,4,45,47,IVF267
+9,Bachelors,13,Data Scientist,Education,San Francisco,Medium,4,50,41,CGG854
+10,High School,4,Data Scientist,IT,New York,,,46,32,
+11,,3,Data Scientist,Education,Bangalore,Medium,4,42,59,OMD363
+12,Masters,14,Manager,Healthcare,Bangalore,Large,4,38,51,QOQ236
+13,PhD,17,Data Scientist,Healthcare,Bangalore,Large,0,22,36,SLR976
+14,Bachelors,13,Manager,Healthcare,London,Small,2,48,37,IRA613
+15,High School,0,Manager,Healthcare,San Francisco,Large,0,25,34,LAO822
+16,PhD,3,Manager,Education,Bangalore,,3,52,45,
+17,Masters,4,Analyst,,New York,Medium,0,32,31,BCQ500
+

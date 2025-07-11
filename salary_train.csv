@@ -1,0 +1,18 @@
+ID,education_level,years_experience,job_title,industry,location,company_size,certifications,age,working_hours,crucial_code,salary
+1,High School,12,Data Scientist,Education,New York,Medium,1,48,52,XEV156,
+2,PhD,17,Data Scientist,IT,New York,,0,39,34,,
+3,PhD,12,Software Engineer,Education,New York,Large,4,,42,FIK684,95136.09799
+4,Bachelors,1,Analyst,Healthcare,New York,Small,2,34,,DKD155,70682.30628
+5,High School,0,Analyst,IT,New York,Small,1,38,40,ZZH645,64887.65469
+6,PhD,17,Manager,Healthcare,New York,Large,3,35,37,EUL573,108816.2662
+7,High School,6,Software Engineer,IT,New York,Medium,2,40,43,ASK448,70602.30744
+8,PhD,11,Data Scientist,Education,New York,,1,45,42,,114449.9955
+9,Bachelors,8,Manager,Finance,New York,Large,3,,49,AIC329,91470.73893
+10,High School,3,Analyst,IT,New York,Medium,,28,43,KHB186,70347.52337
+11,PhD,2,,IT,New York,Small,4,30,51,ARG795,90859.63099
+12,Bachelors,13,Data Scientist,Education,New York,Small,2,55,30,YVE939,98162.08402
+13,Bachelors,15,Software Engineer,Education,New York,Large,1,49,35,PNL671,65439.07114
+14,PhD,18,Software Engineer,Finance,New York,Small,3,36,36,QVU569,104324.4658
+15,High School,6,Analyst,Education,New York,Small,1,41,40,SUS321,64248.3188
+16,High School,5,Data Scientist,Finance,New York,Large,,23,49,SZT517,92200.263
+17,Masters,14,Manager,IT,New York,Medium,3,48,48,JUW639,132850.8192
